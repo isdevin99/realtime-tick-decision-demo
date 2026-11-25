@@ -1,0 +1,6 @@
+{"ts_code":"000001.SZ","time":"09:30:01.120","price":"10.00","volume":6000,"turnover":"60000","bs_flag":"B"}
+{"ts_code":"000001.SZ","time":"09:30:02.400","price":"10.01","volume":2500,"turnover":"25025","bs_flag":"S"}
+{"ts_code":"000001.SZ","time":"09:30:03.250","price":"10.00","volume":1200,"turnover":"12000","bs_flag":"C"}
+{"ts_code":"000001.SZ","time":"09:30:05.200","price":"10.02","volume":2000,"turnover":"20040","bs_flag":"N"}
+{"ts_code":"000001.SZ","time":"09:30:06.100","price":"10.03","volume":5500,"turnover":"55165","bs_flag":"B"}
+{"ts_code":"000001.SZ","time":"09:30:10.000","price":"10.01","volume":500,"turnover":"5005","bs_flag":"S"}
